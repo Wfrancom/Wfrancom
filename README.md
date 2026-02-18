@@ -55,85 +55,32 @@ Soy estudiante de **pregrado en Ingeniería de Sistemas y Computación** en la *
 Aquí algunos proyectos en los que he trabajado durante mi carrera:
 <div align="center">
   <table>
-    <tr>
+       <tr>
       <td width="50%">
-        <h3 align="center">Gestor de Clientes</h3>
+        <h3 align="center">Proyecto Empanadas</h3>
         <p align="center">
-          <a href="https://github.com/Wfrancom/gestor-de-clientes">🔗 Ver Repositorio</a>
+          <a href="https://github.com/Wfrancom/Repositorio_proyectoempanadas_grupo">🔗 Ver Repositorio</a>
           <br>  
-          <em>Sistema de gestión de clientes con Spring Boot, Spring Data JPA, Thymeleaf y Bootstrap. Implementa operaciones CRUD completas con interfaz web moderna.</em>
-          <br>
-          <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white">
-          <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white">
-          <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">Sistema de Ventas</h3>
-        <p align="center">
-          <a href="https://github.com/Wfrancom/sistema-ventas">🔗 Ver Repositorio</a>
-          <br>  
-          <em>Sistema integral de ventas desarrollado en Java con interfaz gráfica Swing. Gestiona productos, clientes, facturación y reportes básicos.</em>
+          <em>Proyecto universitario en grupo. Una aplicación temática sobre empanadas colombianas, desarrollada como parte de actividades académicas colaborativas.</em>
           <br>
           <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">
-          <img src="https://img.shields.io/badge/Swing-007396?style=flat&logo=java&logoColor=white">
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+          <img src="https://img.shields.io/badge/Trabajo_Colaborativo-FF6F00?style=flat&logo=github&logoColor=white">
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">Análisis BI: Power BI vs Tableau</h3>
+        <p align="center">
+          <a href="https://github.com/Wfrancom/Sis_info_repository">🔗 Ver Repositorio</a>
+          <br>  
+          <em>Análisis comparativo profundo entre Power BI y Tableau para la clase de Sistemas de Información. Se creó un dashboard idéntico en ambas herramientas con el dataset TechStore para evaluar usabilidad, rendimiento y capacidades. Incluye archivos .pbix y .twb.</em>
+          <br>
+          <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black">
+          <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white">
+          <img src="https://img.shields.io/badge/Business_Intelligence-FF6F00?style=flat&logo=databricks&logoColor=white">
         </p>
       </td>
     </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Taller Mecánico</h3>
-        <p align="center">
-          <a href="https://github.com/Wfrancom/taller-mecanico">🔗 Ver Repositorio</a>
-          <br>  
-          <em>Aplicación para gestión de talleres mecánicos con Spring Boot. Administra vehículos, clientes, órdenes de servicio y repuestos.</em>
-          <br>
-          <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white">
-          <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat&logo=spring&logoColor=white">
-          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">Biblioteca</h3>
-        <p align="center">
-          <a href="https://github.com/Wfrancom/biblioteca">🔗 Ver Repositorio</a>
-          <br>  
-          <em>Sistema de gestión bibliotecaria con Spring Boot. Control de préstamos, devoluciones, catálogo de libros y gestión de usuarios.</em>
-          <br>
-          <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white">
-          <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat&logo=spring&logoColor=white">
-          <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white">
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Mi Portafolio</h3>
-        <p align="center">
-          <a href="https://github.com/Wfrancom/mi-portafolio">🔗 Ver Repositorio</a>
-          <br>  
-          <em>Portafolio web personal desarrollado con HTML, CSS y JavaScript. Diseño responsive y moderno para mostrar proyectos y habilidades.</em>
-          <br>
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">Ejercicios en Python</h3>
-        <p align="center">
-          <a href="https://github.com/Wfrancom/ejercicios_python">🔗 Ver Repositorio</a>
-          <br>  
-          <em>Colección de ejercicios y algoritmos resueltos en Python. Ideal para practicar lógica de programación y fundamentos del lenguaje.</em>
-          <br>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-          <img src="https://img.shields.io/badge/Algoritmos-FF6F00?style=flat&logo=thealgorithms&logoColor=white">
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+   
 
 ---
 
@@ -142,8 +89,7 @@ Aquí algunos proyectos en los que he trabajado durante mi carrera:
 <div align="center">
 
   <!-- Tarjetas de estadísticas -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wfrancom&show_icons=true&theme=highcontrast&hide_border=true&locale=es&count_private=true&include_all_commits=true" alt="Estadísticas de GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wfrancom&layout=compact&langs_count=8&theme=highcontrast&hide_border=true&locale=es" alt="Lenguajes más usados"/>
+
 
   <!-- Gráfica de contribuciones -->
   <br>
@@ -159,8 +105,7 @@ Aquí algunos proyectos en los que he trabajado durante mi carrera:
 Soy un convencido de que la educación pública de calidad es el motor de transformación de Colombia. Desde mi perfil como desarrollador, busco aportar mi granito de arena para construir un país más justo, tecnológico e innovador.  
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Escudo_de_la_Universidad_Nacional_de_Colombia.svg/1200px-Escudo_de_la_Universidad_Nacional_de_Colombia.svg.png" alt="Escudo UNAL" width="100"/>
-  <br>
+ 
   <strong>Universidad Nacional de Colombia</strong>
   <br>
   <em>Vigilada Mineducación</em>
