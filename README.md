@@ -1,13 +1,12 @@
 <!-- README de Perfil para GitHub - Estudiante Universidad Nacional de Colombia -->
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   ¡Hola, Bienvenido a mi Espacio!
 </h1>
 
 <!-- Presentación Principal con el Espíritu UNAL -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=F7B42C&center=true&vCenter=true&width=600&lines=Estudiante+UNAL+%F0%9F%A6%85;Apasionado+por+la+Ingeniería;Construyendo+País+desde+el+Código" alt="Typing SVG" />
+ 
 </div>
 
 <br>
@@ -15,15 +14,16 @@
 <!-- Tarjeta de Presentación -->
 ## 🧑‍🎓 Sobre Mí  
 
-Soy estudiante de **pregrado en [Tu Carrera, ej: Ingeniería de Sistemas y Computación]** en la **Universidad Nacional de Colombia**, sede [Tu Sede, ej: Bogotá]. Me motiva usar la tecnología para resolver problemas reales y aportar al desarrollo de mi país.  
+Soy estudiante de **pregrado en Ingeniería de Sistemas y Computación** en la **Universidad Nacional de Colombia**, sede  Bogotá. Me motiva usar la tecnología para resolver problemas reales y aportar al desarrollo de mi país.  
 
 - 🔭 Actualmente, estoy explorando el mundo del **desarrollo de software** y la **ciencia de datos**.  
 - 🌱 Aprendiendo de manera autodidacta sobre **arquitectura de software** y **nuevas tecnologías backend**.  
 - 👯 Busco colaborar en proyectos de **código abierto** que tengan un impacto social o académico.  
 - 🤔 Me interesa profundizar en **inteligencia artificial** y cómo aplicarla en contextos colombianos.  
-- 💬 Pregúntame sobre **programación en Python, Java, o sobre la vida universitaria en la Nacho**.  
-- 📫 Cómo contactarme: **[Tu correo institucional]** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](TuLinkDeLinkedIn)  
-- ⚡ Dato curioso: **Soy un apasionado por el café colombiano y el ajedrez.**  
+- 💬 Pregúntame sobre **programación en Python, Java**.  
+- 📫 Cómo contactarme: **Wfrancom@unal.edu.co ó fwilsonm28@gmail.com** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](www.linkedin.com/in/wilson-franco-martinez-42805b33a)  
+- ⚡ Dato curioso: **Soy un apasionado por el ciclismo y la computacion.**
+
 
 ---
 
@@ -34,8 +34,7 @@ Soy estudiante de **pregrado en [Tu Carrera, ej: Ingeniería de Sistemas y Compu
 ### Lenguajes de Programación
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### Frameworks y Librerías
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -46,7 +45,7 @@ Soy estudiante de **pregrado en [Tu Carrera, ej: Ingeniería de Sistemas y Compu
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 </div>
 
 ---
